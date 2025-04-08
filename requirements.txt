@@ -1,0 +1,11 @@
+torch==1.13.1
+torchaudio==0.13.1
+transformers==4.26.1
+pyannote.audio==2.1.1
+deepmultilingualpunctuation
+librosa
+pydub
+fastapi
+uvicorn
+python-multipart
+aiofiles
